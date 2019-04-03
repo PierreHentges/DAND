@@ -1,5 +1,5 @@
 *Term 2 project 3 for the Udacity Data Analyst Nanodegree*
-# Wrangle and Analyze Data: WeRateDogs Twitter account data
+# Wrangle and Analyze Data: WeRateDogs Twitter data
 
 WeRateDogs (https://twitter.com/dog_rates) is a Twitter account that rates people's dogs with a humorous comment about the dog. This project,a part of the Udacity Data Analyst Nanodegree, is all about wrangling and analysing data related to WeRateDogs.
 
