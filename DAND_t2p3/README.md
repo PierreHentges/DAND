@@ -34,5 +34,4 @@ The main steps undertaken for this project are:
 * image-predictions.tsv: file downloaded from Udacity
 * tweet_json.txt: JSON data obtained from the Twitter API using tweepy
 * twitter-archive-enhanced.csv: file downloaded from Udacity
-* twitter_archive_master_predictions.csv : one of two dataframes obtained after data cleaning
-* twitter_archive_master_tweets.csv : one of two dataframes obtained after data cleaning
+* twitter_archive_master.csv : dataframe obtained after data cleaning
