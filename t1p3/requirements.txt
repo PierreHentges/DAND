@@ -1,0 +1,7 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+
+matplotlib=2.2.2
+numpy=1.13.3
+pandas=0.22.0
+seaborn=0.8.1
