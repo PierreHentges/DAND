@@ -80,6 +80,10 @@ The project was an analysis of results from an A/B Test run by an e-commerce web
 ## [t2p1] - Second Term Intro
 Short introductory project for the second term. The aim was to use a Jupyter notebook to compute descriptive statistics and perform a statistical test on a data set based on a psychological phenomenon, the Stroop Effect.
 
+The project uses statistical analysis to evaluate the result from an experiment on the Stroop effect, a classic phenomenon from experimental psychology.
+
+In psychology, the Stroop effect is a demonstration of interference in the reaction time of a task. When the name of a color (e.g., "blue", "green", or "red") is printed in a color which is not denoted by the name (i.e., the word "red" printed in blue ink instead of red ink), naming the color of the word takes longer and is more prone to errors than when the color of the ink matches the name of the color. The effect is named after John Ridley Stroop, who first published the effect in English in 1935. (Wikipedia)
+
 ### files:
 * Test_a_Perceptual_Phenomenon.ipynb: Jupter notebook
 * stroopdata.csv: datasets
