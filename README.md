@@ -10,7 +10,7 @@ Projects for Udacity Data Analyst Nanodegree Program (DAND)
 |Term 1, Project 3 - *Intro to Data Analysis* | Investigation of a curated dataset with Python, Pandas in a Jupyter notebook| [Hospital No-show appointments](t1p3/dand-project-investigate-a-dataset_final.ipynb)|
 |Term 1, Project 4 - *Practical statistics* | Analyse the results of an A/B test run by an e-commerce website| [Analyse A/B test](t1p4/Analyze_ab_test_results_notebook.ipynb)|
 |Term 2, Project 1 - *Term Welcome* | Short introductory analysis of the Stroop effect| [Test A Perceptual Phenomenon](t2p1/Test_a_Perceptual_Phenomenon.ipynb)|
-|Term 2, Project 2 - *Exploratory Data Analysis* |Performing a complete exploratory data analysis using R, using as dataset campaign contribution to the 2016 US presidential campaign | [EDA - 2016 US Campaign Finance](t2p2/dand_t2p2_campaign_finance.html)|
+|Term 2, Project 2 - *Exploratory Data Analysis* |Performing a complete exploratory data analysis using R, using as dataset campaign contribution to the 2016 US presidential campaign | [EDA - 2016 US Campaign Finance](t2p2/dand_t2p2_campaign_finance.md)|
 |Term 2, Project 3 - *Data Wrangling* |Gathering, cleaning, analysing data from the WeRateDogs Twitter account| [WeRateDogs Twitter Data Wrangling](t2p3/README.md)|
 |Term 2, Project 4 - *Data Story Telling*|Using Tableau for explanatory data visualisation of Prosper P2P lending | [Project report (pdf)](t2p4/DAND_t2p4_report_Prosper.pdf), [Actual story hosted by Tableau](https://public.tableau.com/profile/pierre.hentges#!/vizhome/ProsperStory_15544624601900/ProsperStoryver2)|
 
@@ -94,9 +94,18 @@ In psychology, the Stroop effect is a demonstration of interference in the react
 ## [t2p2] - Exploratory Data Analysis: WeRateDogs Twitter data
 Performing a complete exploratory data analysis using R, using as dataset campaign contribution to the 2016 US presidential campaign 
 
-[EDA - 2016 US Campaign Finance](t2p2/dand_t2p2_campaign_finance.html)|
+### files and links
+* dand_t2p2_campaign_finance.md: Knitted R Markdown file
+* dand_t2p2_campaign_finance.html: equivalent html
+* dand_t2p2_campaign_finance.rmd: original R MarkDown file, incl R code
+* references.txt: Notes for project submission 
+* P00000001-ALL.zip - download full dataset of 2016 campaign finance data from fec.gov/data/elections
 
+[Direct link to knitted R MarkDown file](t2p2/dand_t2p2_campaign_finance.md)|
+
+#### screenshot
 ![2016 US presidential primaries](t2p2/screenshot.png)
+
 
 ## [t2p3] - Data Wrangling
 This module was about learn the entire data wrangling process of gathering, assessing, and cleaning data. In the project I learnt how to use Python to wrangle data programmatically and prepare it for deeper analysis.
