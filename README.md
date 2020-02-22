@@ -131,7 +131,7 @@ In the module's project, Tableau Public was used for analysis and visualizations
 The final project aimed at creating an explanatory data visualization from a data set that communicates a clear finding or that highlights relationships or patterns in a data set. The work should be a reflection of the theory and practice of data visualization, and the final deliverable was a write up along with a Tableau Public workbook. The report documented changes made to the original version of the Tableau story after feedback from 2 people.
 
 My visualisation investigates the P2P lending company Prosper and how borrowers use this novel finance facility. The focus is the large proportion of borrowers who use Prosper for debt consolidation – usually successfully in the sense that they subsequently manage to pay off the loan.
-
+ 
 ### Files and Links
 * The final report: [Pdf file hosted on Github](t2p4/DAND_t2p4_report_Prosper.pdf)
 * The first version of the Tableau story: [Story hosted by Tableau](https://public.tableau.com/profile/pierre.hentges#!/vizhome/ProsperStory_15544624601900/ProsperStoryver1)
